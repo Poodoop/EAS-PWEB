@@ -1,0 +1,38 @@
+.text-color1p {
+    color: #224278;
+    font-family: Poppins;
+  }
+  .text-color2p {
+    color: #FFFFFF;
+    font-family: Poppins;
+  }
+  .text-color1m {
+    color: #224278;
+    font-family: Montserrat;
+  }
+  .text-color2m {
+    color: #FFFFFF;
+    font-family: Montserrat;
+  }
+.bold{
+    font-weight: bold
+}
+
+.custom-bg{
+    background: linear-gradient(165.13deg, #3768A6 0%, #82A6CB 113.71%);
+    height: 100vh;
+}
+
+.image-container{
+    background: url('./images/desktop.png') center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.form-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+}
+
